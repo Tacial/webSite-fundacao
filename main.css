@@ -11,9 +11,7 @@ li { list-style: circle; }
 .btn { position: absolute; top: 20px; left: 250px; height: 50px;
     width: 70px; border-radius: 40%; color: var(--btnFontColor); background-color: var(--btnBg);}
 .btn:focus { outline-style: none; }
-
 .light-theme { --bg: var(--green); --fontcolor: var(--black);
     --btnBg: var(--black); --btnFontColor: var(--white); }
-
 .dark-theme { --bg: var(--black); --fontcolor: var(--green);
     --btnBg: var(--white); --btnFontColor: var(--black); }
