@@ -1,8 +1,4 @@
-:root { 
-    --green: #0f0;
-    --white: #fff;
-    --black: #000;
-}
+:root { --green: #0f0; --white: #fff; --black: #000; }
 * { color: var(--fontcolor); font-family: monospace; }
 body { background: var(--bg); }
 ul { font-family: Helvetica; }
