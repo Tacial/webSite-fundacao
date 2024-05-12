@@ -3,6 +3,7 @@
 body { background: var(--bg); }
 ul { font-family: Helvetica; }
 li { list-style: circle; }
+
 .list { list-style: square; }
 .btn { position: absolute; top: 20px; left: 250px; height: 50px;
     width: 70px; border-radius: 40%; color: var(--btnFontColor); background-color: var(--btnBg);}
